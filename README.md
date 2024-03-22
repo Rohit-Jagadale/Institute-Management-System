@@ -1,5 +1,5 @@
 # Institute-Management-System
-To manage data of Student who enrolled in institute
+To manage data of Student who enrolled in institute.
 
 # Login
 ![image](https://github.com/Rohit-Jagadale/Institute-Management-System/assets/163968622/db23543c-3a0e-4026-a7c0-f66282b3ad0e)
